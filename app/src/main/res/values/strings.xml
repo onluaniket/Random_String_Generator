@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random String Generator</string>
+    <string name="generate_strings">Generate Strings</string>
+    <string name="enter_length">Enter Length</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">Clear All</string>
+    <string name="item_StringHeader">RandomString123</string>
+    <string name="item_StringLength">Length: 12</string>
+    <string name="item_CreatedTime">Created at: 10:30 AM</string>
+</resources>
